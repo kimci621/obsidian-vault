@@ -5,4 +5,4 @@ supabase 2v9b*thk3bv&2s$jn26$8g!511%7
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1uaXBjcWtqYWdrdnllZHdmcHFsIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTczMDEyMDI3NSwiZXhwIjoyMDQ1Njk2Mjc1fQ.hiX2Sj9u_pdPDtLgDOr6VR0VBRdcZZ41i5tm2X8--ew
 
 URL
-https://mnipcqkjagkvyedwfpql.supabase.co
+https://mnipcqkjagkvyedwfpql.supabase.com
