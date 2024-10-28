@@ -154,10 +154,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0829e02d873673f1",
+  "active": "df7f23d9a9ae8023",
   "lastOpenFiles": [
-    "адрес Татьяны.md",
+    "/README.md",
     "work/Собеседование vue.js.md",
+    "README.md",
+    "адрес Татьяны.md",
     "work/main.md",
     "sport/split.md",
     "ideas/сюжет сна.md",
@@ -180,8 +182,6 @@
     "/ideas/Путешествия по России.md",
     "/ideas/tasker.md",
     "/food/Гастроэнтеролог.md",
-    "/food/calculated.md",
-    "/dev/Принципы программирования.md",
     "work",
     "sport",
     "ideas",
