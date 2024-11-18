@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заработать.md",
+                "file": "sport/split.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заработать"
+              "title": "split"
             }
           }
         ],
@@ -185,8 +185,8 @@
   },
   "active": "4e1ebdb8e86c7537",
   "lastOpenFiles": [
-    "sport/split.md",
     "Заработать.md",
+    "sport/split.md",
     "Заработать",
     "food/Поддержка.md",
     "food/calculated.md",
