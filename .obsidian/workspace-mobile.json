@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sport/split.md",
+                "file": "food/Гастроэнтеролог.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "split"
+              "title": "Гастроэнтеролог"
             }
           }
         ],
@@ -199,10 +199,10 @@
   },
   "active": "4241ed971bc432f5",
   "lastOpenFiles": [
+    "sport/split.md",
     "Без названия.md",
     "food/Поддержка.md",
     "food/calculated.md",
-    "sport/split.md",
     "адрес Татьяны.md",
     "Заработать.md",
     "Заработать",
