@@ -20,8 +20,22 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "9d7817637c96de2e",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,10 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5780c3142af9a15",
+  "active": "9d7817637c96de2e",
   "lastOpenFiles": [
-    "адрес Татьяны.md",
+    "6 недель.md",
     "README.md",
+    "адрес Татьяны.md",
     "food/Гастроэнтеролог.md",
     "food/calculated.md",
     "ideas/Путешествия по России.md",
