@@ -13,29 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Заработать.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "9d7817637c96de2e",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": true
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "title": "Заработать"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,10 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d7817637c96de2e",
+  "active": "a458a4411d52ba25",
   "lastOpenFiles": [
-    "6 недель.md",
+    "Без названия.canvas",
+    "Без названия.md",
+    "Заработать.md",
     "README.md",
+    "6 недель.md",
     "адрес Татьяны.md",
     "food/Гастроэнтеролог.md",
     "food/calculated.md",
