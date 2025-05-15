@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Заработать"
             }
+          },
+          {
+            "id": "37b29e8f84021017",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -173,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a458a4411d52ba25",
+  "active": "37b29e8f84021017",
   "lastOpenFiles": [
     "Без названия.canvas",
     "Без названия.md",
